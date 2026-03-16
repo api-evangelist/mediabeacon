@@ -1,38 +1,40 @@
 aid: mediabeacon
 name: MediaBeacon
 description: >-
-  One of our strengths is MediaBeacons highly flexible architecture and open
-  APIs that enable integration into many products on todays market. By
-  connecting other systems into your Digital Asset Management system, youre able
-  to drive more productivity than ever before. With hands off data transfer
-  between services, you remove human intervention and areas for mistakes. 
+  MediaBeacon is a Digital Asset Management (DAM) platform with a highly
+  flexible architecture and open APIs that enable integration into many products.
+  Its APIs support hands-off data transfer between services, reducing human
+  intervention and enabling workflow automation.
 type: Index
-position: Consumer
-access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - API
-created: '2025-03-01'
-modified: '2025-03-01'
+  - Digital Asset Management
+  - DAM
+  - Media
+  - Integrations
 url: >-
   https://raw.githubusercontent.com/api-evangelist/mediabeacon/refs/heads/main/apis.yml
+created: '2025-03-01'
+modified: '2026-03-16'
 specificationVersion: '0.19'
 apis:
-  - aid: mediabeacon:mediabeacon
-    name: MediaBeacon
+  - aid: mediabeacon:mediabeacon-api
+    name: MediaBeacon API
     description: >-
-      One of our strengths is MediaBeacons highly flexible architecture and open
-      APIs that enable integration into many products on todays market. By
-      connecting other systems into your Digital Asset Management system, youre
-      able to drive more productivity than ever before. With hands off data
-      transfer between services, you remove human intervention and areas for
-      mistakes. 
-    humanURL: ' https://www.mediabeacon.com/en/api-documentation'
+      The MediaBeacon REST API provides programmatic access to the MediaBeacon
+      Digital Asset Management platform, enabling integration with other
+      products and automated data transfer between services.
+    humanURL: https://www.mediabeacon.com/en/api-documentation
     tags:
+      - Digital Asset Management
+      - DAM
       - API
     properties:
       - type: Documentation
-        url: ' https://www.mediabeacon.com/en/api-documentation'
+        url: https://www.mediabeacon.com/en/api-documentation
+common:
+  - type: Website
+    url: https://www.mediabeacon.com/
 maintainers:
   - FN: Kin Lane
-    email: info@apievangelist.com
+    email: kin@apievangelist.com
