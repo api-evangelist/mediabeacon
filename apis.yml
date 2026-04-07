@@ -8,10 +8,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Digital Asset Management
   - DAM
-  - Media
+  - Digital Asset Management
   - Integrations
+  - Media
 url: >-
   https://raw.githubusercontent.com/api-evangelist/mediabeacon/refs/heads/main/apis.yml
 created: '2025-03-01'
@@ -26,9 +26,8 @@ apis:
       products and automated data transfer between services.
     humanURL: https://www.mediabeacon.com/en/api-documentation
     tags:
-      - Digital Asset Management
       - DAM
-      - API
+      - Digital Asset Management
     properties:
       - type: Documentation
         url: https://www.mediabeacon.com/en/api-documentation
