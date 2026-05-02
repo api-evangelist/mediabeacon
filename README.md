@@ -1,5 +1,5 @@
 # MediaBeacon (mediabeacon)
-MediaBeacon is a Digital Asset Management (DAM) platform with a highly flexible architecture and open APIs that enable integration into many products. Its APIs support hands-off data transfer between services, reducing human intervention and enabling workflow automation.
+MediaBeacon is a Digital Asset Management (DAM) platform from Esko with a highly flexible architecture and open APIs that enable integration into many products. Its APIs support hands-off data transfer between services, reducing human intervention and enabling workflow automation.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/mediabeacon/refs/heads/main/apis.yml)
 
@@ -16,7 +16,7 @@ MediaBeacon is a Digital Asset Management (DAM) platform with a highly flexible 
 ## Timestamps
 
 - **Created:** 2025-03-01 
-- **Modified:** 2026-03-16 
+- **Modified:** 2026-04-28 
 
 ## APIs
 
@@ -36,7 +36,8 @@ The MediaBeacon REST API provides programmatic access to the MediaBeacon Digital
 
 ## Common Properties
 
-- [Website](https://www.mediabeacon.com/)
+- [Website](https://www.esko.com/en/products/mediabeacon)
+- [Documentation](https://www.esko.com/en/products/mediabeacon)
 
 ## Maintainers
 
