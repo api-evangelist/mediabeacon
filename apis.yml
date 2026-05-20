@@ -32,6 +32,8 @@ apis:
       - type: Documentation
         url: https://www.mediabeacon.com/en/api-documentation
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/mediabeacon
   - type: Website
     url: https://www.esko.com/en/products/mediabeacon
   - type: Documentation
