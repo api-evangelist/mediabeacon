@@ -6,7 +6,19 @@ description: >-
   products. Its APIs support hands-off data transfer between services, reducing
   human intervention and enabling workflow automation.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mediabeacon.png
 tags:
   - DAM
   - Digital Asset Management
@@ -15,7 +27,7 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/mediabeacon/refs/heads/main/apis.yml
 created: '2025-03-01'
-modified: '2026-04-28'
+modified: '2026-07-25'
 specificationVersion: '0.19'
 apis:
   - aid: mediabeacon:mediabeacon-api
