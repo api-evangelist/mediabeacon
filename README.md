@@ -20,11 +20,6 @@ MediaBeacon is a Digital Asset Management (DAM) platform from Esko with a highly
 
 ## APIs
 
-### MediaBeacon API
-The MediaBeacon REST API provides programmatic access to the MediaBeacon Digital Asset Management platform, enabling integration with other products and automated data transfer between services.
-
-**Human URL:** [https://www.mediabeacon.com/en/api-documentation](https://www.mediabeacon.com/en/api-documentation)
-
 
 #### Tags:
 
