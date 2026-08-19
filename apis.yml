@@ -28,7 +28,7 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/mediabeacon/refs/heads/main/apis.yml
 created: '2025-03-01'
 modified: '2026-07-25'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: mediabeacon:mediabeacon-api
     name: MediaBeacon API
