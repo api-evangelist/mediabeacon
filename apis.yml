@@ -31,7 +31,6 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mediabeacon.png
 tags:
-  - DAM
   - Digital Asset Management
   - Integration
   - Media
@@ -54,6 +53,8 @@ apis:
       products and automated data transfer between services.
     humanURL: https://www.mediabeacon.com/en/api-documentation
     tags:
+      - Digital Asset Management
+    tags_raw:
       - DAM
       - Digital Asset Management
     properties:
