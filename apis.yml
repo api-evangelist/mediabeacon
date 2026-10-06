@@ -42,7 +42,7 @@ tags_raw:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/mediabeacon/refs/heads/main/apis.yml
 created: '2025-03-01'
-modified: '2026-07-25'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
   - aid: mediabeacon:mediabeacon-api
@@ -61,6 +61,8 @@ apis:
       - type: Documentation
         url: https://www.mediabeacon.com/en/api-documentation
 common:
+  - url: https://www.esko.com/en/blog
+    type: Blog
   - type: DomainSecurity
     url: security/mediabeacon-domain-security.yml
   - type: LinkedIn
