@@ -61,6 +61,12 @@ apis:
       - type: Documentation
         url: https://www.mediabeacon.com/en/api-documentation
 common:
+  - type: Plans
+    url: plans/mediabeacon-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/mediabeacon-rate-limits.yml
+  - type: FinOps
+    url: finops/mediabeacon-finops.yml
   - url: https://www.esko.com/en/blog
     type: Blog
   - type: DomainSecurity
